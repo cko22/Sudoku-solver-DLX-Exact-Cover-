@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Owner/Desktop/Mathematical Finance Material/C++/Sudoku_Assignment/file_reader.cpp
+file_reader.hpp
+C:/Users/Owner/Desktop/Mathematical Finance Material/C++/Sudoku_Assignment/file_reader.hpp
+
+C:/Users/Owner/Desktop/Mathematical Finance Material/C++/Sudoku_Assignment/file_reader.hpp
+iostream
+-
+fstream
+-
+string
+-
+array
+-
+
